@@ -1,0 +1,21 @@
+{
+  "name": "apidatas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 3005"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek205/apidatas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek205/apidatas/issues"
+  },
+  "homepage": "https://github.com/prateek205/apidatas#readme"
+}
